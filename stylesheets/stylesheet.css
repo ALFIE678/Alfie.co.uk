@@ -242,10 +242,9 @@ a {
 
 .page-header {
   color: #fff;
-  text-align: center;
-  background-color: #3962AC;
-  background-image: linear-gradient(120deg, #3962AC, #DE9CD8); }
-
+  text-align: left;
+  background-color:SteelBlue ;
+}
 .main-content {
   background-color: #fff;
 }
@@ -258,10 +257,12 @@ a {
 
 img {
   margin-top: 1em;
-}
+}width 50%;
 
 a {
   color: #D788CC;
+body {
+    background-color: lightblue;
 }
 
 ul, ol {
